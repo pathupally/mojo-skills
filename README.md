@@ -2,8 +2,8 @@
 
 Two Mojo skills:
 
-- `mojo-expert`
-- `mojo-reviewer`
+- [`mojo-expert`](./mojo-expert/SKILL.md)
+- [`mojo-reviewer`](./mojo-reviewer/SKILL.md)
 
 From the repo root, go to this folder first:
 
